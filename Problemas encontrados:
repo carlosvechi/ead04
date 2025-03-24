@@ -1,0 +1,32 @@
+# Organização de Arquivos
+
+- **Nomenclatura dos Arquivos:**  
+  - Arquivo com letra maiúscula: `Sobre.html`, `index.HTML`
+- **Estrutura de Pastas e Arquivos JavaScript:**  
+  - Várias pastas e vários arquivos JS, que poderiam estar consolidados em um único local.
+- **Linguagem dos Arquivos HTML:**  
+  - Padrão de idioma incorreto: utilizar `en` ao invés de `ptbr`.
+- **Organização Geral:**  
+  - Má organização das pastas.
+  - Ausência de documentação.
+
+# Páginas HTML
+
+- **CSS:**  
+  - CSS embutido no mesmo arquivo HTML.
+
+- **JavaScript:**  
+  - Script JS incluído diretamente no arquivo HTML.
+  - Exclusão de um arquivo JS que estava duplicado, mantendo apenas um arquivo JS.
+
+- **Botões e Arquivos Duplicados:**  
+  - Retirada do botão duplo.
+
+- **Navegação:**  
+  - No arquivo `contato`, ao clicar para voltar para o `index`, o redirecionamento não funcionava devido a erro de direcionamento.
+
+- **Estilização:**
+- Header e navbar implementados
+- adição de tabelas para formatação dos cadastros
+- Mudança de cores, centralização dos textos
+- Card para o input do formulário
